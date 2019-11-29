@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="style1.css">
+</head>
+<body>
+    <!-- Seeing as the boxes were divided into 3 rows I figured it would be easy for me to divide all boxes into 3 rows and then define the rules for them in the css file.
+
+    The rows follow in descending order with all boxes belonging to a row following it, obviously.
+
+    I made a class "box" and gave each following box an id
+
+    More in-depth commentary can be found in the css file.
+     -->
+<div class="Row1">
+    <div class="box" id="blueBox">
+        <div class="text cent">Text A</div>
+    </div>
+    <div class="box" id="yellowBox">
+        <div class="text mid"><strong>Text B</strong></div>
+    </div>
+    <div class="box" id="greenBox">
+        <div class="text cent bot">Text C</div>
+    </div>
+    <div class="box" id="photo2">
+        <img src="https://cdn.shopify.com/s/files/1/2312/7883/products/Celtic-Knot_1400x.png?v=1539119031">
+    </div>
+</div>
+
+<div class="Row2">
+    <div class="box" id="photoDrag">
+        <img src="https://a-z-animals.com/media/animals/images/470x370/chinchilla2.jpg" id="chinchilla" draggable="true" ondragstart="drag(event)">
+    </div>
+    <div class="box" id="grayBox">
+        <div class="text">Text D</div>
+    </div>
+</div>
+
+<div class="Row3">
+    <div class="box" id="dragDropGreen" ondrop="drop(event)" ondragover="allowDrop(event)"></div>
+    <div class="box" id="dragDropBlack" ondrop="drop(event)" ondragover="allowDrop(event)"></div>
+</div>
+
+</body>
+</html>
+<!-- In all honest I had no clue how to do this and simply found an example online where someone had done something similar. -->
+<script>
+    function allowDrop(ev) {
+        ev.preventDefault();
+    }
+    function drag(ev){
+        ev.dataTransfer.setData("image/jpeg", ev.target.id);
+    }
+    function drop(ev) {
+        data = ev.dataTransfer.getData("image/jpeg");
+        ev.target.appendChild(document.getElementById(data));
+    }
+</script>

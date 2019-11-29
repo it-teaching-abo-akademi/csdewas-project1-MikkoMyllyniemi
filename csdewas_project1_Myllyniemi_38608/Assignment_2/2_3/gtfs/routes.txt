@@ -1,0 +1,142 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+110,1,L6,Koulukeskus-Vt 10-Tarvasjoki-Liedonperä-Nuolemo,,3,,eaab00,000000
+84,67,612,Marttila-Turku,,3,,ffb98b,000000
+13,1,18,Runosmäki-Harittu,,3,,eaab00,000000
+1,1,1,Lentoasema-Satama,,3,,ff9933,000000
+59,1,303,Puutori-Rusko-Vahto,,3,,eaab00,000000
+85,67,615,Somero-Marttila-Turku,,3,,ffb98b,000000
+124,1,L13,Liedon keskusta-Suopohja-Littoinen-Loukinainen,,3,,eaab00,000000
+17,1,23,Tortinmäki-Paattinen-Kauppatori,,3,,eaab00,000000
+38,1,72,Syvälahden koulu-Haarla-Kakskerta,,3,,eaab00,000000
+138,1,2B,Littoinen-Kohmo-Länsinummi,,3,,eaab00,000000
+95,1,R2,Petäsmäki-Keo-Kaanaa-Tikanmaa-Petäsmäki,,3,,eaab00,000000
+43,1,88,Runosmäki-Länsikesk.-Nättinum-Hepokulta-Länsikesk.,,3,,eaab00,000000
+100,1,K6,Toivonlinna-Piikkiö,,3,,eaab00,000000
+93,1,N2,Naantali-Rymättylä,,3,,eaab00,000000
+135,101,902,Korppoo-Nauvo-Parainen-Turku,,3,,ff972b,000000
+105,1,N9,Teersalo-Pohjanpääntie,,3,,eaab00,000000
+73,1,22X,Jäkärlä-Moottoritie-Kauppatori,,3,,eaab00,000000
+48,1,7,Kaarina-Naantali,,3,,eaab00,000000
+5,1,610,Avanti-Kauppatori,,3,,eaab00,000000
+137,2,904,Houtskari-Korppoo,,3,,ed0c6e,000000
+30,1,53,Ylioppilaskylä-Moikoinen-Pikisaari-Maanpää,,3,,eaab00,000000
+70,1,22A,Auvaismäki-Jäkärlä-Kauppatori,,3,,eaab00,000000
+142,1,180,Martinsilta-Forum Marinum-Ruissalo,,3,,00aeef,000000
+117,1,N6,Naantali-Merimasku-Velkua,,3,,eaab00,000000
+3,1,2A,Kohmo-Liljalaakso,,3,,eaab00,000000
+25,1,L14,Loukinainen-Avanti,,3,,eaab00,000000
+79,1,78,Jäkärlä-Ruuska-Rieskalähteen koulu,,3,,eaab00,000000
+76,1,32A,Varissuo-Keskusta,,3,,eaab00,000000
+61,1,P2,Skanssi-Kohmo-Keskusta,,3,,eaab00,000000
+58,1,302,Puutori-Rusko-Vahto,,3,,eaab00,000000
+81,1,92,Varissuo-Puutarhakatu-Pernon telakka,,3,,eaab00,000000
+64,100,402,Lieto as-Puutori,,3,,ff972b,000000
+27,1,50,Ylioppilaskylä-Moikoinen-Oriniemi,,3,,eaab00,000000
+49,101,901,Korppoo-Nauvo-Parainen-Turku,,3,,ff972b,000000
+7,1,8,Puutori-Ruissalo,,3,,eaab00,000000
+134,2,PA4,Metsäkoulu-Sairaala-Paimio,,3,,ed0c6e,000000
+114,1,N1,Keskusta-Murikko-Keskusta,,3,,eaab00,000000
+101,1,L1,Koulukeskus-Suopohja-Littoinen,,3,,eaab00,000000
+78,1,77,Tortinmäki-Rieskalähteen koulu,,3,,eaab00,000000
+122,1,N12,Rymättylä-Aasla,,3,,eaab00,000000
+36,1,89,Halinen -Ylioppilaskylä-Ilpoinen,,3,,eaab00,000000
+90,1,601,Littoinen-Varissuo,,3,,eaab00,000000
+63,100,401,Ilmarinen-Puuatori,,3,,ff972b,000000
+119,1,N8,Merimaskun koulu-Killainen-Iskola-Merimaskun koulu,,3,,eaab00,000000
+128,101,706,Paimio-Piikkiö-Turku,,3,,ff972b,000000
+102,1,L2,Koulukeskus-Loukinainen-Littoinen,,3,,eaab00,000000
+98,1,K4,Harvaluoto-Piikkiö-Rungon koulu,,3,,eaab00,000000
+115,1,N3,Naantali-Linnavuori-Rymättylä,,3,,eaab00,000000
+23,1,34,Runosmäki-Ilpoinen,,3,,eaab00,000000
+40,1,74,Varissuo-Nummenpakan koulu,,3,,eaab00,000000
+112,1,L9,Kaurinkoski-Pahkamäen koulu-Rähälä-Jokilaakson k.,,3,,eaab00,000000
+75,1,23B,Yli-Maaria-Kauppatori,,3,,eaab00,000000
+57,1,301,Puutori-Rusko (Päällistönmäki),,3,,eaab00,000000
+86,1,700,Piikkiö-Turku,,3,,eaab00,000000
+52,1,206,Puutori-Kaanaa,,3,,eaab00,000000
+66,1,52A,Syvälahden koulu-Kukola-Haarla-Papinsaari,,3,,eaab00,000000
+11,1,14,Saramäki-Erikvalla,,3,,eaab00,000000
+83,1,101,Keskusta-Logomo,,3,,eaab00,000000
+132,2,PA2,Paimio-Huso-Kurki-Kevola-Paimio,,3,,ed0c6e,000000
+19,1,30,Majakkaranta-Itäinen Pitkäkatu-Kauppatori,,3,,eaab00,000000
+41,1,80,Runosmäki-Pernon telakka,,3,,eaab00,000000
+97,101,708,Huso th.-Paimio-Piikkiö-Turku,,3,,eaab00,000000
+12,1,15,Saramäki-Kakskerta,,3,,eaab00,000000
+44,1,90,Varissuo-Uittamo-Pernon telakka,,3,,eaab00,000000
+50,1,201,Turku-Naantali,,3,,eaab00,000000
+29,1,52,Keskusta-Itäinen Pitkäkatu-Hirvensalo,,3,,eaab00,000000
+141,67,614,Koski-Marttila-Turku,,3,,ffb98b,000000
+34,1,58,Vaapukkatie-Kupit.asema-Moik.-Haarla-Kakskerrantie,,3,,eaab00,000000
+139,1,2C,Littoinen-Kohmo-Liljalaakso,,3,,eaab00,000000
+103,1,L4,Ilmarinen-Rauhakylä-Vintala-Vanhainkoti th,,3,,eaab00,000000
+104,1,N4,Naantali-Merimasku,,3,,eaab00,000000
+127,101,705,Paimio-Keskuslaitos-Piikkiö-Turku,,3,,ff972b,000000
+118,1,N7,Keskusta-Linnavuori-Porhonkallio-Keskusta,,3,,eaab00,000000
+121,1,N11,Rymättylä-Ahteentaka,,3,,eaab00,000000
+107,1,L10,Kutsuliikenne,,3,,eaab00,000000
+130,101,709,Paimio-Turku,,3,,ff972b,000000
+26,1,42,Varissuo-Perno,,3,,eaab00,000000
+109,1,L5,Jokilaakso-Koulukeskus-Saukonoja-Liedonperä,,3,,eaab00,000000
+69,1,21B,Maaria-Yli-Puutori,,3,,eaab00,000000
+68,1,21A,Paattinen-Kauppatori,,3,,eaab00,000000
+62,1,P3,Ilpoinen-Mälikkälä,,3,,eaab00,000000
+32,1,55,Räntämäki-Halinen-Haarla,,3,,eaab00,000000
+28,1,51,Ylioppilaskylä-Moikoinen-Oriniemi,,3,,eaab00,000000
+74,1,23A,Paattinen-Kauppatori,,3,,eaab00,000000
+37,1,67,Katariina-Harittu-Ilpoisten koulu,,3,,eaab00,000000
+136,101,903,Houtskari-Nauvo-Parainen-Turku,,3,,ff972b,000000
+56,1,300,Puutori-Mylly,,3,,eaab00,000000
+131,2,PA1,Paimio-Oinila-Paimio,,3,,ed0c6e,000000
+6,1,6,Lieto-Naantali,,3,,eaab00,000000
+46,1,99,Ilpoinen-Skanssi-Lauste-Länsikeskus-Perno,,3,,eaab00,000000
+113,1,55A,Halinen-Kauppatori,,3,,eaab00,000000
+33,1,56,Räntämäki-Halinen-Toijainen,,3,,eaab00,000000
+71,1,22B,Tortinmäki-Paattinen-Moisio-Jäkärlä-Kauppatori,,3,,eaab00,000000
+24,1,36,Halinen-Ylioppilaskylä-Moikoinen-Haarla,,3,,eaab00,000000
+60,1,P1,Lehmusvalkama-Kasarminkatu,,3,,eaab00,000000
+72,1,22M,Jäkärlä-Moisio-Kauppatori,,3,,eaab00,000000
+111,1,L8,Keskusta-Hämeentie-Yliskulma,,3,,eaab00,000000
+51,1,203,Turku-Naantali-Velkua,,3,,eaab00,000000
+94,1,R1,Petäsmäki-Tikanmaa-Kaanaa-Keo-Petäsmäki,,3,,eaab00,000000
+54,1,220,Ylioppilaskylä-Mylly,,3,,eaab00,000000
+20,1,31,Varissuo-Perno,,3,,eaab00,000000
+22,1,33,Vienola-Vaala,,3,,eaab00,000000
+108,1,L11,Tarvasjoki-Yliskulma-Jokilaakson koulu,,3,,eaab00,000000
+9,1,12,Varissuo-Härkämäki,,3,,eaab00,000000
+55,1,221,Kaarina-Skanssi-Ihala-Mylly-Länsinummi,,3,,eaab00,000000
+92,1,L7,Koulukeskus-Ilmarinen,,3,,eaab00,000000
+4,1,3,Majakkaranta-Itäinen Rantakatu-Kauppatori,,3,,eaab00,000000
+35,1,61,Ilpoinen-Vienola,,3,,eaab00,000000
+8,1,9,Katariina-Vaala,,3,,eaab00,000000
+80,1,82,Tortinmäki-Paattinen-Moisio-Jäkärlä-Kauppatori,,3,,eaab00,000000
+65,100,403,Aura-Lieto as-Turku,,3,,ff972b,000000
+120,1,N10,Rymättylä-Aikkola-Poikko,,3,,eaab00,000000
+14,1,20,Puutori-Muhkuri,,3,,eaab00,000000
+125,101,703,Paimio-Keskuslaitos-Piikkiö-Turku,,3,,ff972b,000000
+116,1,N5,Naantali-Merimasku-Velkua,,3,,eaab00,000000
+15,1,21,Tortinmäki-Paattinen-Kauppatori,,3,,eaab00,000000
+77,1,60,Vaala-Suikkila,,3,,eaab00,000000
+82,1,93,Varissuo-Puutarhakatu-Pansio,,3,,eaab00,000000
+21,1,32,Varissuo-Pansio,,3,,eaab00,000000
+89,101,801,Parainen-Turku,,3,,ff972b,000000
+87,1,701,Toivonlinna-Turku,,3,,eaab00,000000
+2,1,2,Kohmo-Länsinummi,,3,,eaab00,000000
+47,1,100,Keskusta-Turkuhalli,,3,,eaab00,000000
+106,1,L3,Ilmarinen-Arosuo-Paavola,,3,,eaab00,000000
+126,101,704,Paimio-Piikkiö-Turku,,3,,ff972b,000000
+99,1,K5,Piikkiö-Makarla/Puosta-Kirismäki,,3,,cc3300,ffffff
+123,1,N13,Haapala-Naantali,,3,,eaab00,000000
+16,1,22,Jäkärlä-Kauppatori,,3,,eaab00,000000
+88,67,702,Salo-Turku,,3,,ffb98b,000000
+18,1,28,Kohmo-Länsinummi,,3,,eaab00,000000
+91,1,K1,Auranlaakso-Oskarinaukio,,3,,eaab00,000000
+53,1,102,Kupittaan palloiluhalli-Keskusta,,3,,eaab00,000000
+129,101,707,Paimio-Hepojoki-Piikkiö-Turku,,3,,ff972b,000000
+31,1,54,Ylioppilaskylä-Moikoinen-Kaistarniemi-Papinsaari,,3,,eaab00,000000
+39,1,73,Saramäki-Turun Lyseon koulu-Kärsämäen koulu,,3,,eaab00,000000
+10,1,13,Takakirves-Uittamo,,3,,eaab00,000000
+133,2,PA3,Paimi-Oinila-Juntola-Suksela-Pennainen-Paimio,,3,,ed0c6e,000000
+45,1,91,Varissuo-Uittamo-Pansio,,3,,eaab00,000000
+42,1,7A,Kauppatori-Vuorenpää,,3,,eaab00,000000
+96,1,K2,Kuusisto-Lemunniemi,,3,,eaab00,000000
+67,1,71,Syvälahden koulu-Pikisaari-Maanpää-Oriniemi-Haarla,,3,,eaab00,000000

@@ -1,0 +1,115 @@
+body {
+}
+/*applies to everything in body*/
+* {
+    box-sizing: border-box;
+}
+
+/*I had to make these adjustments as all the pictures I found of chinchillas 
+were so ludicrously huge*/
+img {
+    max-width: 150px;
+    float: left;
+}
+/* The position and display lines have to be on each row so that no matter the
+    window size the relative distance between the rows always remains the same */
+.Row1{
+    position: absolute;
+    display:flex;
+    top: 75px;
+}
+
+.Row2{
+    position: absolute;
+    display:flex;
+    top: 300px;
+}
+
+.Row3{
+    position: absolute;
+    display:flex;
+    top: 525px;
+    left: 150px;
+}
+
+/*The "box" is essentially just a designated area that you can determine the
+    color and size of. display: table explained below; */
+
+.box {
+    display: table;
+    float: left;
+    height: 150px;
+    width: 150px;
+    margin-left: 75px; 
+}
+
+#blueBox {
+    background: blue;
+    color: white;
+    font-size: 30px;
+}
+#yellowBox {
+    background: yellow;
+    border: 1px solid black;
+    color: black;
+    font-size: 30px;
+    margin:0 0 0 250px;
+}
+#greenBox {
+    background: green;
+    border: 1px solid black;
+    color: white;
+    font-size: 20px;
+    margin: 0 0 0 150px;
+}
+/* I struggled a bit with this one, but after a while I found a way of
+    defining commonly used alignments and then just stacking the
+    ones you need to the corresponding box. The only way I got this to
+    work was with the display: table-cell command*/
+
+.text {
+    display: table-cell;
+}
+.cent {
+    text-align: center;
+}
+.mid {
+    vertical-align: middle;
+}
+.bot {
+    vertical-align: bottom;
+}
+
+#photo2 {
+    -webkit-animation: rotation 4s infinite alternate;
+    margin-left: 300px;
+
+}
+#grayBox {
+    width: 350px;
+    background: lightgray;
+    border: 2px solid red;
+    color: red;
+    font-size: 30px;
+    margin-left: 200px;
+}
+
+#dragDropGreen {
+    border: 1px solid green;
+}
+#dragDropBlack {
+    width: 200px;
+    margin-left: 350px;
+    border: 1px solid black;
+}
+
+/*Took me an unnecessarily long time to realize you needed 
+this part as well*/
+@-webkit-keyframes rotation {
+    from {
+        -webkit-transform: rotate(0deg);
+    }
+    to {
+        -webkit-transform: rotate(360deg);
+    }
+}

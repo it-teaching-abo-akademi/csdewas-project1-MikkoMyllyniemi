@@ -1,0 +1,79 @@
+body {
+}
+
+* {
+    box-sizing: border-box;
+}
+
+/* I realized the page will easily scale quite well by defining the ratio that the
+two sides of the page should have, with the item list being on the "left" side and the
+freetext being on the "right". By then defining the ratio in percentages the page
+will automatically adjust as the window changes sizes. */
+.pageLeft {
+    width: 20%;
+    float: left;
+}
+.pageRight {
+    width: 80%;
+    float: left;
+}
+.page {
+        position: absolute;
+}
+
+/*Making sure the image isn't over- or undersized, by defining that the width is
+100% of the parent class */
+img {
+    width: 100%;
+}
+/* Putting some space between the buttons on the top */
+a {
+    padding: 0 1em 0 0;
+}
+/* Removing the dots that automatically appear in front of lists and 
+    making some margin and padding changes */
+ul {
+    list-style-type: none;
+    margin: 1em 0 0.5em 1.25em;
+    padding: 0;
+}
+/* Some margin changes for the list items themselves */
+li {
+    padding:0 0 0.75em 0;
+}
+
+/* Here we make the clickable links look like normal text */
+.list > ul > li > a, .options > a {
+    color:black;
+    text-decoration: none;
+
+}
+/* Aligning the top buttons to the right and some margin changes */
+.options {
+    text-align: right;
+    width: 100%;
+    margin: 0 0 1.5em 0;
+}
+
+.list {
+    border: 1px solid black;
+    margin: 20px 0 0 0;
+}
+
+.fillerText {
+    padding:0 0 0 2em;
+}
+ 
+/* Another point of struggle. I followed a tutorial to sort of ensure that 
+    the porportions on the page where correct, and surprisingly the largest
+    issue was when the page was "fullscreen". Here I limited the size of the page
+    as long as the window is larger than 1000px. Seemed to do the trick.
+    A lot of trial and error in getting the left, and transform values right */
+@media screen and (min-width: 1000px) {
+    .page {
+        position: absolute;
+        width: 1000px;
+        left: 50%;
+        transform: translate(-50%, 0)
+    }
+}

@@ -1,0 +1,6 @@
+﻿agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone
+1,FÖLI Turun seudun joukkoliikenne,http://www.foli.fi,Europe/Helsinki,fi,02 262 4811
+100,"FÖLI Turun seudun joukkoliikenne/V-S ELY-keskus, palveluntuottaja Länsilinjat Oy",http://www.foli.fi,Europe/Helsinki,fi,02 262 4811
+101,"FÖLI Turun seudun joukkoliikenne/V-S ELY-keskus, palveluntuottaja Turun Linja-autoilijain Osakeyhtiö",http://www.foli.fi,Europe/Helsinki,fi,02 262 4811
+2,Turun Linja-autoilijain Osakeyhtiö,http://tlo.fi/,Europe/Helsinki,fi,0100 8840
+67,J. Vainion Liikenne Oy,http://www.vainionliikenne.fi/fi,Europe/Helsinki,fi,02 777 330

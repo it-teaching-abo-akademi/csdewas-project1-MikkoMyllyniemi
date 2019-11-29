@@ -1,0 +1,106 @@
+
+* {
+    box-sizing: border-box;
+}
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+[class*="col-"] {
+    float: left;
+}
+
+.col-1 {width: 8.33%;}
+.col-2 {width: 16.66%;}
+.col-3 {width: 25%;}
+.col-4 {width: 33.33%;}
+.col-5 {width: 41.66%;}
+.col-6 {width: 50%;}
+.col-7 {width: 58.33%;}
+.col-8 {width: 66.66%;}
+.col-9 {width: 75%;}
+.col-10 {width: 83.33%;}
+.col-11 {width: 91.66%;}
+.col-12 {width: 100%;}
+
+html {
+    font-family: "Arial", sans-serif;
+}
+#root {
+    margin-top: 4%;
+}
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+#map {
+    height: 100%;
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+#countrySelector {
+    border: 1px solid black;
+}
+
+#zipCodeField {
+    border: 1px solid black;
+}
+
+#inputBox {
+    border: none;
+}
+#inputBox select, input{
+    display: block;
+    min-width: 20%;
+    width: 35%;
+    margin-top: 3%;
+    margin-left: 8.5%;
+}
+#inputBox button {
+    margin-left: 8.5%;
+    margin-top: 10%;
+    width: 15%;
+    min-width: 75px;
+    border: 1px solid black;
+}
+
+#inputHistoryBox {
+    border: 1px solid black;
+    margin-left: 3%;
+}
+#inputHistoryBox h4{
+    text-align: center;
+    margin-top: 2px;
+}
+#inputHistory li{
+    list-style-type: none;
+    clear: right;
+    width: 100%;
+    text-align: left;
+    margin-top: 2px;
+}
+#output_table_top {
+    margin-left: 5%;
+}
+#output_table_top p{
+    display: inline-block;
+    border: 1px solid black;
+    background: lightgray;
+    padding: 5px;
+}
+#output_table_row {
+    margin-top: -33px;
+    margin-left: 5%;
+    width: 95%;
+    float: left;
+    display: block;
+}
+#output_table_row p{
+    display: inline-block;
+    padding: 5px;
+    border: 1px solid black;
+}
